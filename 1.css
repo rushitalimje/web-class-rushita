@@ -1,0 +1,48 @@
+# Query: 
+# ContextLines: 1
+
+table {
+    
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(114, 199, 173, 0.322);
+}
+th {
+    border-collapse: collapse;
+    height:100px;
+    color: black;
+}
+td{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    height:20px;
+    color: rgb(0, 0, 0);
+
+}
+h1{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(23, 92, 148);
+    text-align: center;
+}
+body{
+background: radial-gradient(circle, #ff7e5f, #feb47b, #86fde8);
+}
+img {
+    width: 300px;
+    height: 200px;
+  }
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #135670;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+
+  a.button:hover {
+    background-color: #467fa3;
+  }
